@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textPharmacyItemFontSize">10sp</dimen>
+    <dimen name="textPharmacyItemFontSizeLand">14sp</dimen>
+    <dimen name="textPharmacyItemFontSizeSmallDP">10sp</dimen>
+    <dimen name="textPharmacyItemFontSizeSmallLargeTablet">16sp</dimen>
+
+</resources>

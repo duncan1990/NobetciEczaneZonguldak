@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryRed">#FF1616</color>
+    <color name="colorBgRecyclerview">#E9E9E9</color>
+    <color name="colorLocationButtonTextColor">#C69E0000</color>
+
+</resources>
